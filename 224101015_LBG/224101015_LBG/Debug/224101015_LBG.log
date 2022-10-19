@@ -1,0 +1,40 @@
+﻿Build started 20-10-2022 00:45:05.
+     1>Project "c:\Users\admin\documents\visual studio 2010\Projects\224101015_LBG\224101015_LBG\224101015_LBG.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\224101015_LBG.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\224101015_LBG.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 224101015_LBG.cpp
+         224101015_LBG.cpp
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(79): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(98): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(142): error C2143: syntax error : missing '}' before 'constant'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(142): error C2143: syntax error : missing ';' before 'constant'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(142): error C2143: syntax error : missing ';' before '}'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(145): error C2059: syntax error : 'for'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(145): error C2143: syntax error : missing ')' before ';'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(145): error C2143: syntax error : missing ';' before '<'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(145): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(145): error C2086: 'int i' : redefinition
+                 c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(144) : see declaration of 'i'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(145): error C2143: syntax error : missing ';' before '++'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(145): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(145): error C2086: 'int i' : redefinition
+                 c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(144) : see declaration of 'i'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(145): error C2059: syntax error : ')'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(146): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(146): error C2447: '{' : missing function header (old-style formal list?)
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(150): error C2059: syntax error : 'return'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(151): error C2059: syntax error : '}'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(151): error C2143: syntax error : missing ';' before '}'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(151): error C2059: syntax error : '}'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(154): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(154): error C2447: '{' : missing function header (old-style formal list?)
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_lbg\224101015_lbg\224101015_lbg.cpp(205): error C3861: 'findcluster': identifier not found
+     1>Done Building Project "c:\Users\admin\documents\visual studio 2010\Projects\224101015_LBG\224101015_LBG\224101015_LBG.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.33
