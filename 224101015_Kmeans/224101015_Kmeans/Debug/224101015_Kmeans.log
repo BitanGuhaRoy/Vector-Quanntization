@@ -1,0 +1,53 @@
+﻿Build started 20-10-2022 00:38:38.
+     1>Project "c:\Users\admin\documents\visual studio 2010\Projects\224101015_Kmeans\224101015_Kmeans\224101015_Kmeans.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\224101015_Kmeans.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\224101015_Kmeans.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 224101015_Kmeans.cpp
+         224101015_Kmeans.cpp
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_kmeans\224101015_kmeans\224101015_kmeans.cpp(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_kmeans\224101015_kmeans\224101015_kmeans.cpp(56): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_kmeans\224101015_kmeans\224101015_kmeans.cpp(113): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_kmeans\224101015_kmeans\224101015_kmeans.cpp(144): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_kmeans\224101015_kmeans\224101015_kmeans.cpp(151): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_kmeans\224101015_kmeans\224101015_kmeans.cpp(141): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_kmeans\224101015_kmeans\224101015_kmeans.cpp(211): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_kmeans\224101015_kmeans\224101015_kmeans.cpp(227): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_kmeans\224101015_kmeans\224101015_kmeans.cpp(229): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_kmeans\224101015_kmeans\224101015_kmeans.cpp(233): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_kmeans\224101015_kmeans\224101015_kmeans.cpp(238): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(197) : see declaration of 'strtok'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_kmeans\224101015_kmeans\224101015_kmeans.cpp(249): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_kmeans\224101015_kmeans\224101015_kmeans.cpp(256): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+     1>c:\users\admin\documents\visual studio 2010\projects\224101015_kmeans\224101015_kmeans\224101015_kmeans.cpp(221): warning C4101: 'l' : unreferenced local variable
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\admin\documents\visual studio 2010\Projects\224101015_Kmeans\Debug\224101015_Kmeans.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\224101015_Kmeans.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\admin\documents\visual studio 2010\Projects\224101015_Kmeans\Debug\224101015_Kmeans.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\admin\documents\visual studio 2010\Projects\224101015_Kmeans\Debug\224101015_Kmeans.lib" /MACHINE:X86 Debug\224101015_Kmeans.exe.embed.manifest.res
+         Debug\224101015_Kmeans.obj
+         Debug\stdafx.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\224101015_Kmeans.exe.embed.manifest" /manifest Debug\224101015_Kmeans.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         224101015_Kmeans.vcxproj -> c:\users\admin\documents\visual studio 2010\Projects\224101015_Kmeans\Debug\224101015_Kmeans.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\224101015_Kmeans.unsuccessfulbuild".
+         Touching "Debug\224101015_Kmeans.lastbuildstate".
+     1>Done Building Project "c:\Users\admin\documents\visual studio 2010\Projects\224101015_Kmeans\224101015_Kmeans\224101015_Kmeans.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.73
